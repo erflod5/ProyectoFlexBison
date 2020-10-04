@@ -1,4 +1,4 @@
-# Proyecto Bison y Flex
+# Intérprete sencillo en Flex y Bison
 
 ## Información General
 * Desarrollado por Erik Flores
@@ -9,4 +9,3 @@
 * Visual Studio Code: Editor de codigo fuente.
 * Flex: Generador de analizadores léxicos
 * Bison: Generador de analizadores sintácticos
-
